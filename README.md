@@ -9,6 +9,13 @@ python main.py
 ```
 
 ---
+Here's the output screenshots of the project
+<img width="1917" height="1095" alt="image" src="https://github.com/user-attachments/assets/d022d542-e53b-4153-a46f-e9da9d19bee2" />
+<img width="1917" height="1091" alt="image" src="https://github.com/user-attachments/assets/6b069350-e1d8-4210-8cdf-111c4049c4fd" />
+<img width="1917" height="1095" alt="image" src="https://github.com/user-attachments/assets/987ef05e-ad0a-4bbb-b9f6-23b02d9da580" />
+<img width="1916" height="1090" alt="image" src="https://github.com/user-attachments/assets/d5941269-a708-4473-991d-ffbe2033cdb3" />
+
+
 
 ## 1. What is this project? (Simple explanation)
 
