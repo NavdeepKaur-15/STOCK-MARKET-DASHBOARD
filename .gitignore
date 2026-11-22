@@ -1,0 +1,37 @@
+# Python virtual environments
+venv/
+.venv/
+env/
+
+# Python cache files
+__pycache__/
+**/__pycache__/
+*.py[cod]
+*$py.class
+
+# Application logs
+logs/
+*.log
+
+# Jugaad data cache
+.jugaad_cache/
+
+# Environment variables and secrets
+.env
+.env.*
+!.env.example
+
+# IDE and editor files
+.vscode/
+.idea/
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# Testing and temporary files
+.pytest_cache/
+*.tmp
+*.bak
+
+SQLQuery1.sql
