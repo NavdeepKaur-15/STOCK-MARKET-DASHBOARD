@@ -10,10 +10,15 @@ python main.py
 
 ---
 Here's the output screenshots of the project
-<img width="1917" height="1095" alt="image" src="https://github.com/user-attachments/assets/d022d542-e53b-4153-a46f-e9da9d19bee2" />
-<img width="1917" height="1091" alt="image" src="https://github.com/user-attachments/assets/6b069350-e1d8-4210-8cdf-111c4049c4fd" />
-<img width="1917" height="1095" alt="image" src="https://github.com/user-attachments/assets/987ef05e-ad0a-4bbb-b9f6-23b02d9da580" />
-<img width="1916" height="1090" alt="image" src="https://github.com/user-attachments/assets/d5941269-a708-4473-991d-ffbe2033cdb3" />
+
+<img width="1917" height="1093" alt="image" src="https://github.com/user-attachments/assets/413eebab-4608-4ca4-8ee2-fd7636b6d128" />
+
+<img width="1917" height="1095" alt="image" src="https://github.com/user-attachments/assets/372835b3-3030-44e8-82aa-309dff95d764" />
+
+<img width="1917" height="1093" alt="image" src="https://github.com/user-attachments/assets/2df3c0c0-63b6-4180-b352-37bb3f9ccc09" />
+
+<img width="1917" height="1093" alt="image" src="https://github.com/user-attachments/assets/7ddf1806-987d-47b6-8c98-f10e268ffc3d" />
+
 
 
 
