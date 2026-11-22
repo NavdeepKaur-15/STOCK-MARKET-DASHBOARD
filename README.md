@@ -1,3 +1,11 @@
+Copyright (c) 2026 Navdeep Kaur.
+All rights reserved.
+
+This repository is published for viewing and
+educational evaluation purposes only.
+No permission is granted to copy, modify,
+distribute, or commercially use this code.
+
 # Stock Market Dashboard – Data Pipeline
 
 A Python project that collects market data every time you run it, calculates useful numbers from that data, and saves everything into a SQL Server database. A dashboard tool (such as Power BI) can then read the database and show charts.
